@@ -1,7 +1,6 @@
-<img src='https://bartertrade.io/images/logo-full.png'>
-[![Latest Version](https://img.shields.io/github/release/jaggedsoft/bartertrade-api.svg?style=flat-square&labelColor=blueviolet&label=release)](https://github.com/jaggedsoft/bartertrade-api/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/jaggedsoft/bartertrade-api.svg?maxAge=2400&labelColor=333&label=🟣%20updated)](#) <!--[![Monthly Downloads](https://img.shields.io/npm/dm/bartertrade-api.svg?labelColor=29B6F6&color=3D5AFE&label=downloads&logo=bitcoin-lightning)](https://npm-stat.com/charts.html?package=bartertrade&from=2020-04-11&to=2020-07-01)--> 
-[![jaggedsoft on Twitter](https://img.shields.io/twitter/follow/jaggedsoft.svg?style=social)](https://twitter.com/jaggedsoft)
-
+<!--<img src='https://bartertrade.io/images/logo-full.png'>
+<a href='https://github.com/jaggedsoft/bartertrade-api/releases'><img src='https://img.shields.io/github/release/jaggedsoft/bartertrade-api.svg?style=flat-square&labelColor=blueviolet&label=release'></a> <img src='https://img.shields.io/github/last-commit/jaggedsoft/bartertrade-api.svg?maxAge=2400&labelColor=333&label=🟣%20updated'> [![Monthly Downloads](https://img.shields.io/npm/dm/bartertrade-api.svg?labelColor=29B6F6&color=3D5AFE&label=downloads&logo=bitcoin-lightning)](https://npm-stat.com/charts.html?package=bartertrade&from=2020-04-11&to=2020-07-01)
+<a href='https://twitter.com/jaggedsoft'><img src='https://img.shields.io/twitter/follow/jaggedsoft.svg?style=social'></a>-->
 [![NPM](https://nodei.co/npm/bartertrade.png?compact=true)](https://npmjs.org/package/bartertrade)
 
 # Node Bartertrade API
