@@ -1,0 +1,28 @@
+{
+  "name": "bartertrade",
+  "version": "0.0.0",
+  "description": "Bartertrade Javascript API https://github.com/jaggedsoft/bartertrade-api",
+  "main": "bartertrade-api.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "ws": "^6.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaggedsoft/bartertrade-api.git"
+  },
+  "keywords": [
+    "bartertrade",
+    "cryptocurrency",
+    "api"
+  ],
+  "author": "Jon Eyrick <darkpool@liquidity.ltd> (https://github.com/jaggedsoft)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaggedsoft/bartertrade-api/issues"
+  },
+  "homepage": "https://github.com/jaggedsoft/bartertrade-api",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
