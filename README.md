@@ -12,7 +12,7 @@ This project is designed to help you make your own projects that interact with t
 #### Getting started
 ```javascript
 ( async () => {
-    const api = require( "./bartertrade-api.js" );
+    const api = require( 'bartertrade' );
     api.auth( 'apikey', 'secret' );
     
     // Get Balance
